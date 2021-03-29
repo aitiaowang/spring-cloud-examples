@@ -4,7 +4,7 @@
 
 #### Eureka server 缓存机制
 
-    具体实现： {@link com.netflix.eureka.registry.ResponseCacheImpl}
+> 具体实现： [ResponseCacheImpl](com.netflix.eureka.registry.ResponseCacheImpl)
 
 ##### 说明
 
